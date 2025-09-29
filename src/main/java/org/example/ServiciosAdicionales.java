@@ -1,10 +1,10 @@
 package org.example;
 
-public class Servicios {
+public class ServiciosAdicionales {
     private String tipoServicio;
     private int precioServicio;
 
-    public Servicios(String tipoServicio, int precioServicio) {
+    public ServiciosAdicionales(String tipoServicio, int precioServicio) {
         this.tipoServicio = tipoServicio;
         this.precioServicio = precioServicio;
     }
